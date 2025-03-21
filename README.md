@@ -30,9 +30,9 @@ My journey started when [insert brief personal anecdote, e.g., "I tried teaching
 Built a model that spots customers eyeing the exit door before they bail. Used Python's usual suspects (Langchain, OpenRouter, CrewAI) to crunch historical data.
 *Why it matters*: One client reduced churn by 18% by using these predictions to target retention efforts.
 
-### 2. Sentiment Analysis 🎭
-**Emotion Decoder 3000**
-Coming soon...
+### 2. Event Planner and Marketer 🎭
+**Venue Decoder 3000**
+AI agents automate venue selection, optimize crowd logistics ("200 people ≠ coffee shop math"), and launch targeted promotions. Includes a Logistics Ninja for real-time tweaks and a Hype Architect that designs viral campaigns using attendee data.
 
 ## Technologies Used 🛠️
 
