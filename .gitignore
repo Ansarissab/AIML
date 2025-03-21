@@ -1,0 +1,6 @@
+aivenv/
+env/
+.env
+__pycache__/
+*.pyc
+execution_log.txt
