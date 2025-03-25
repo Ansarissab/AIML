@@ -34,6 +34,15 @@ Built a model that spots customers eyeing the exit door before they bail. Used P
 **Venue Decoder 3000**
 AI agents automate venue selection, optimize crowd logistics ("200 people ≠ coffee shop math"), and launch targeted promotions. Includes a Logistics Ninja for real-time tweaks and a Hype Architect that designs viral campaigns using attendee data.
 
+### 3. Simple Chatbot:
+Basic LangChain-OpenRouter integration for straightforward Q&A, perfect for simple dialog management and quick information retrieval.
+
+### 4.  Streaming Chatbot:
+Real-time response streaming with typing indicators, ideal for dynamic conversations and fluid user experiences.
+
+### 5 Multi-Model Persistent Chat:
+Switch between LLMs mid-conversation, save chat histories, and resume sessions with model-specific contexts intact.
+
 ## Technologies Used 🛠️
 
 **My Daily Drivers**
@@ -43,13 +52,15 @@ AI agents automate venue selection, optimize crowd logistics ("200 people ≠ co
 - PyTorch when I need that extra flexibility
 - Crew Ai to team-up ai agents
 - Langchain for apps that can reason.
+- Streamlit
+- OpenRouter API
 
 **Cloud Kitchen**
 AWS, Google Cloud, Azure—I've cooked up solutions in all of them
 
 **Data Playground**
 Coming soon..
-Jupyter Notebooks (with coffee stains), Docker containers that actually work, and Git commits that say "fixed thing" (I'm working on it))
+Jupyter Notebooks (with coffee stains), Docker containers that actually work, and Git commits that say "fixed thing" (I'm working on it)
 
 ## Getting Started 🚀
 

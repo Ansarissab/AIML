@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 execution_log.txt
 .DS_Store
+**/conversations.json
